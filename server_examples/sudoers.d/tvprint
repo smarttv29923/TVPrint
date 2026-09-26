@@ -1,0 +1,1 @@
+www-data ALL=(root) NOPASSWD: /usr/local/bin/tv-app-capture.sh, /usr/local/bin/tv-app-print.sh, /usr/local/bin/tv-app-resume.sh
